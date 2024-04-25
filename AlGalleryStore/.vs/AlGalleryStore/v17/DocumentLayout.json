@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\AlGallery\\Training-Project\\AlGalleryStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{47145C38-68EC-45A3-9ACF-90D284E447C5}|AlGalleryStore\\AlGalleryStore.csproj|c:\\users\\dell\\desktop\\algallery\\training-project\\algallerystore\\algallerystore\\models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47145C38-68EC-45A3-9ACF-90D284E447C5}|AlGalleryStore\\AlGalleryStore.csproj|solutionrelative:algallerystore\\models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47145C38-68EC-45A3-9ACF-90D284E447C5}|AlGalleryStore\\AlGalleryStore.csproj|c:\\users\\dell\\desktop\\algallery\\training-project\\algallerystore\\algallerystore\\models\\shipmentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47145C38-68EC-45A3-9ACF-90D284E447C5}|AlGalleryStore\\AlGalleryStore.csproj|solutionrelative:algallerystore\\models\\shipmentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47145C38-68EC-45A3-9ACF-90D284E447C5}|AlGalleryStore\\AlGalleryStore.csproj|c:\\users\\dell\\desktop\\algallery\\training-project\\algallerystore\\algallerystore\\models\\paymentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47145C38-68EC-45A3-9ACF-90D284E447C5}|AlGalleryStore\\AlGalleryStore.csproj|solutionrelative:algallerystore\\models\\paymentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47145C38-68EC-45A3-9ACF-90D284E447C5}|AlGalleryStore\\AlGalleryStore.csproj|c:\\users\\dell\\desktop\\algallery\\training-project\\algallerystore\\algallerystore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{47145C38-68EC-45A3-9ACF-90D284E447C5}|AlGalleryStore\\AlGalleryStore.csproj|solutionrelative:algallerystore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -23,6 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UserClass.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\AlGallery\\Training-Project\\AlGalleryStore\\AlGalleryStore\\Models\\UserClass.cs",
+              "RelativeDocumentMoniker": "AlGalleryStore\\Models\\UserClass.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\AlGallery\\Training-Project\\AlGalleryStore\\AlGalleryStore\\Models\\UserClass.cs",
+              "RelativeToolTip": "AlGalleryStore\\Models\\UserClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:19:15.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentClass.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\AlGallery\\Training-Project\\AlGalleryStore\\AlGalleryStore\\Models\\PaymentClass.cs",
+              "RelativeDocumentMoniker": "AlGalleryStore\\Models\\PaymentClass.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\AlGallery\\Training-Project\\AlGalleryStore\\AlGalleryStore\\Models\\PaymentClass.cs",
+              "RelativeToolTip": "AlGalleryStore\\Models\\PaymentClass.cs",
+              "ViewState": "AQIAAAcAAAAA5v//////vx4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T21:10:11.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShipmentClass.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\AlGallery\\Training-Project\\AlGalleryStore\\AlGalleryStore\\Models\\ShipmentClass.cs",
+              "RelativeDocumentMoniker": "AlGalleryStore\\Models\\ShipmentClass.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\AlGallery\\Training-Project\\AlGalleryStore\\AlGalleryStore\\Models\\ShipmentClass.cs",
+              "RelativeToolTip": "AlGalleryStore\\Models\\ShipmentClass.cs",
+              "ViewState": "AQIAAB4AAABgZmZmZmYxwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T20:26:31.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\AlGallery\\Training-Project\\AlGalleryStore\\AlGalleryStore\\appsettings.json",
               "RelativeDocumentMoniker": "AlGalleryStore\\appsettings.json",
@@ -35,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "AlGalleryDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\AlGallery\\Training-Project\\AlGalleryStore\\AlGalleryStore\\Data\\AlGalleryDbContext.cs",
               "RelativeDocumentMoniker": "AlGalleryStore\\Data\\AlGalleryDbContext.cs",
@@ -43,8 +94,7 @@
               "RelativeToolTip": "AlGalleryStore\\Data\\AlGalleryDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T18:56:46.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T18:56:46.148Z"
             }
           ]
         }

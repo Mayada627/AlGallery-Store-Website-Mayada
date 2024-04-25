@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlGalleryStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f5fc125ac30a59bb4e0f089ee38c304e41438cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cabfcd50bc552182f72422ffaffe5ef35f47d7bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlGalleryStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlGalleryStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
