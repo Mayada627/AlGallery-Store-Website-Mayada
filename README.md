@@ -43,13 +43,13 @@ It provides a smooth shopping experience, secure user authentication, and a clea
 
 ## Screenshots
 ### Homepage
-![Homepage Screenshot](screenshots/AlGallery.png)
+![Homepage Screenshot](AlGallery.png)
 
 ### Product Page
-![Product Page Screenshot](screenshots/product_page.png)
+![Product Page Screenshot](product_page.png)
  
 ### Collection Page
-![Collection Page Screenshot](screenshots/collection_page.png)
+![Collection Page Screenshot](collection_page.png)
  
  
 
