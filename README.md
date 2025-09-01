@@ -103,5 +103,5 @@ Contributions are welcome!
 ---
 
 ## Author
-**Mayada Ahmed **  
+Mayada Ahmed  
 
